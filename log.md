@@ -27,3 +27,11 @@
 **Thoughts** 
 
 **Link(s) to work**: https://github.com/volshibenik/FreeCodeCamp/blob/master/date_tasks.html
+
+### Day 4: June 3, Sat
+
+**Today's Progress**: 
+
+**Thoughts** Array.reduce, damn it. Watched 2 times funfunfunction video, completed it's code. I guess now i'm closer to mastering it. Sorted Union and HTML entites challenges from FCC
+
+**Link(s) to work**:https://github.com/volshibenik/FreeCodeCamp/blob/master/intermediate/9.sortedUnion.js
