@@ -1,30 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 30, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did some basic algorythm tasks from FreeCodeCamp. Also one 8kata from codewars.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: May 31, 2017 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Built a tribute page as a challenge in FCC.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts**: 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link(s) to work**: https://codepen.io/volshibenik/pen/ybmXjb
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: June 1, Thursday
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Created a repo FreeCodeCamp where i will stack my solutions for their tasks. Also, solved some of them!
 
+**Thoughts** 
 
-### Day 1: June 27, Monday
+**Link(s) to work**: https://github.com/volshibenik/FreeCodeCamp
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 3: June 2, Friday
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Learned about Date object here -> learn.javascript.ru and completed after chapter tasks. Also, began to watch this amazing guy on Youtube -> https://www.youtube.com/watch?v=1DMolJ2FrNY
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** 
+
+**Link(s) to work**: https://github.com/volshibenik/FreeCodeCamp/blob/master/date_tasks.html
