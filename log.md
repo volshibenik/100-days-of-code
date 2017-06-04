@@ -30,8 +30,21 @@
 
 ### Day 4: June 3, Sat
 
-**Today's Progress**: 
+**Today's Progress**: Sorted Union and HTML entites challenges from FCC
 
-**Thoughts** Array.reduce, damn it. Watched 2 times funfunfunction video, completed it's code. I guess now i'm closer to mastering it. Sorted Union and HTML entites challenges from FCC
+**Thoughts** Array.reduce, damn it. Watched 2 times funfunfunction video, completed it's code. I guess now i'm closer to mastering it.
 
 **Link(s) to work**:https://github.com/volshibenik/FreeCodeCamp/blob/master/intermediate/9.sortedUnion.js
+
+**Important** Learned how to use string.replace with function. Found info at W3C school -> cool example  ))
+            var res = str.replace(/blue|house|car/gi, function myFunction(x){return x.toUpperCase();});
+            
+### Day 5: June 4, Sat
+
+**Today's Progress**: completed Sum All Primes, Smallest Common Multiple and couple other challenges from FCC
+
+**Thoughts** 
+
+**Link(s) to work**:https://github.com/volshibenik/FreeCodeCamp/blob/master/intermediate/
+
+
