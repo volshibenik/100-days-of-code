@@ -47,4 +47,12 @@
 
 **Link(s) to work**:https://github.com/volshibenik/FreeCodeCamp/blob/master/intermediate/
 
+### Day 6: June 5, Mon
+
+**Today's Progress**: today i was doing skipped challenge with regular expression to make string spinal case. After spending several hours learning regex i finally did it. Also, finished all remaining intermediate tasks
+
+**Thoughts** 
+
+**Link(s) to work**: https://github.com/volshibenik/FreeCodeCamp/blob/master/intermediate/11.spinalTapCase.js
+
 
