@@ -55,4 +55,12 @@
 
 **Link(s) to work**: https://github.com/volshibenik/FreeCodeCamp/blob/master/intermediate/11.spinalTapCase.js
 
+### Day 7: June 6, Tue
+
+**Today's Progress**: not much today, just watched Lea Verou's talk about regEx and did js part of drumKit from #javascript30
+
+**Thoughts** 
+
+**Link(s) to work**: https://github.com/volshibenik/javascript30/tree/master/01%20-%20JavaScript%20Drum%20Kit
+
 
