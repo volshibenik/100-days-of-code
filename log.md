@@ -64,3 +64,20 @@
 **Link(s) to work**: https://github.com/volshibenik/javascript30/tree/master/01%20-%20JavaScript%20Drum%20Kit
 
 
+### Day 8: June 7, Wed
+
+**Today's Progress**: did some katas from codewars, got first rank-up to 7kyu
+
+**Thoughts** 
+
+**Link(s) to work**:  
+
+
+### Day 9: June 8, Thu
+
+**Today's Progress**: Also some katas from codewars, started to make portfolio
+
+**Thoughts** did this equal sides of an array kata6 and there was awful solution with .reduce inside for cycle marked as best practices)) So i did performance tests to find out that my solution is actually 10 times faster! Gotcha!
+
+**Link(s) to work**:  
+
