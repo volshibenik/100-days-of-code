@@ -81,3 +81,18 @@
 
 **Link(s) to work**:  
 
+### Day 10: June 9, Fri
+
+**Today's Progress**: Worked with portfolio challenge 
+
+**Thoughts**
+
+**Link(s) to work**:  
+
+### Day 11: June 10, Sat
+
+**Today's Progress**: Some more katas from codewars, one particularly hard, despite it's just rank 6,  'Help Mrs. Jefferson'
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/volshibenik/codewars/blob/master/(6)helpMrsJefferson.js
