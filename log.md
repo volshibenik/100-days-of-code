@@ -96,3 +96,13 @@
 **Thoughts** 
 
 **Link(s) to work**:  https://github.com/volshibenik/codewars/blob/master/(6)helpMrsJefferson.js
+
+### Day 12: June 11, Sun
+
+**Today's Progress**: Missed a day((
+
+### Day 12: June 12, Mon
+
+**Today's Progress**: Missed a day((
+
+**Thoughts** 
