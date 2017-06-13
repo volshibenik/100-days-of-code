@@ -101,8 +101,16 @@
 
 **Today's Progress**: Missed a day((
 
-### Day 12: June 12, Mon
+### Still Day 12: June 12, Mon
 
-**Today's Progress**: Missed a day((
+**Today's Progress**: worked on FreeCodeCamp portfolio project
 
 **Thoughts** 
+
+### Day 13: June 13, Tue
+
+**Today's Progress**: Finally finished first version of my portfolio page! 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://codepen.io/volshibenik/pen/pwbXOr
