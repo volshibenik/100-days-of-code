@@ -114,3 +114,22 @@
 **Thoughts** 
 
 **Link(s) to work**:  https://codepen.io/volshibenik/pen/pwbXOr
+
+
+### Day 14: June 14, Wed
+
+**Today's Progress**: Started to make random quote machine challenge
+
+**Thoughts** 
+
+### Day 15: June 15, Thu
+
+**Today's Progress**: Missed a day
+
+**Thoughts** 
+
+### Day 15: June 16, Fri
+
+**Today's Progress**: Solved a codewars kata 'Multi-tap Keypad'. 
+
+**Thoughts** 
