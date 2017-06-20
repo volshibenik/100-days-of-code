@@ -130,6 +130,24 @@
 
 ### Day 15: June 16, Fri
 
-**Today's Progress**: Solved a codewars kata 'Multi-tap Keypad'. 
+**Today's Progress**: Solved a codewars kata 'Multi-tap Keypad' and a couple level 7 simple katas. 
 
 **Thoughts** 
+
+### Day 16: June 17, Sat
+### Day 16: June 18, Sun
+
+Missed these two days((
+
+### Day 16: June 19, Mon
+
+**Today's Progress**: Almost finished Random quote machine challenge. 
+
+**Thoughts** Got struck really hard with twitter button. Couldn't imagine it would be that hard to insert div content there
+
+### Day 17: June 20, Tue
+
+**Today's Progress**: Finished Random quote machine challenge. Yay!! 
+
+**Thoughts** Found this jQuery solution for twitter button and remake it to native JS
+http://jsfiddle.net/chris27/DQw5b/4/ 
