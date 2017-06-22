@@ -151,3 +151,12 @@ Missed these two days((
 
 **Thoughts** Found this jQuery solution for twitter button and remake it to native JS
 http://jsfiddle.net/chris27/DQw5b/4/ 
+
+### Day 18: June 21, Wed
+
+**Today's Progress**: Started Weathe app, spent almost entire day trying to overcome an error: No 'Access-Control-Allow-Origin' header is present, that pops when i try to load JSON from weather API. Found out that this error happens when script in your site tries to load resource from other origin and browser prevents for with security reasons. And i read about the CORS solution, which requires to be implemented on both your and source site (if i understood right). To be continued...
+
+
+### Day 19: June 22, Thu
+
+**Today's Progress**: Today i continued to search for a method to load API. SO, except for CORS there is a hack that everyone use and it's usage of JSONP instead of JSON. It's not very secure, but for sake of this exercise i will gladly use it. IT WORKS! So, all i had to do is add query string 'callback=?' to the end of my API url. Now JSON loads and i am building interface of the app.
