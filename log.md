@@ -160,3 +160,7 @@ http://jsfiddle.net/chris27/DQw5b/4/
 ### Day 19: June 22, Thu
 
 **Today's Progress**: Today i continued to search for a method to load API. SO, except for CORS there is a hack that everyone use and it's usage of JSONP instead of JSON. It's not very secure, but for sake of this exercise i will gladly use it. IT WORKS! So, all i had to do is add query string 'callback=?' to the end of my API url. Now JSON loads and i am building interface of the app.
+
+### Day 20: June 23, Fri
+
+**Today's Progress**: Spent some time to understand why my navigator.geolocation.getCurrentPosition(success, error, options) can't change my external variables and found answer at stackoverflow that this is caused by AJAX async behaviour. So i was trying to access vars before navigator function could change them;
