@@ -164,3 +164,8 @@ http://jsfiddle.net/chris27/DQw5b/4/
 ### Day 20: June 23, Fri
 
 **Today's Progress**: Spent some time to understand why my navigator.geolocation.getCurrentPosition(success, error, options) can't change my external variables and found answer at stackoverflow that this is caused by AJAX async behaviour. So i was trying to access vars before navigator function could change them;
+
+### Day 21: June 25, Sun
+
+**Today's Progress**: Was going through mozilla MDN lesson and example of JSON usage. https://developer.mozilla.org/en/docs/Learn/JavaScript/Objects/JSON
+After learning it did similar stuff in my weather app.
