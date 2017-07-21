@@ -169,3 +169,27 @@ http://jsfiddle.net/chris27/DQw5b/4/
 
 **Today's Progress**: Was going through mozilla MDN lesson and example of JSON usage. https://developer.mozilla.org/en/docs/Learn/JavaScript/Objects/JSON
 After learning it did similar stuff in my weather app.
+
+
+########################
+
+
+### Day 1: July 17, Mon
+
+**Today's Progress**: Lost my win streak month ago and after that was doing things here and there, but not constantly. So i decided to start over. Today will be day1 N2)). I already finished my weather app and today doing to finish wiki app, so let's say it will be my daily progress.
+
+### Day 2: July 18, Tue
+
+**Today's Progress**: Started doing my twitch challenge, took me a while to understand, how to get JSON from this workaround site(to avoid creating twitch account), but finally i get my JSON: https://wind-bow.glitch.me/twitch-api/channels/thijshs
+
+### Day 3: July 19, Wed
+
+**Today's Progress**: Continue doing twitch, found a pure JS JSONp implementation on YouMightNotNeedJQuery, which works fine for twitch, but strangely doesn't for weather app.
+
+### Day 4: July 20, Thu
+
+**Today's Progress**: Finished doing JS for twitch challenge
+
+### Day 5: July 21, Fri
+
+**Today's Progress**: Finished twitch challenge, did tabs with pure CSS radio selectors, not sure if it's good practice, but at least i remembered how it's done!
