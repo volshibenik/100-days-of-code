@@ -193,3 +193,55 @@ After learning it did similar stuff in my weather app.
 ### Day 5: July 21, Fri
 
 **Today's Progress**: Finished twitch challenge, did tabs with pure CSS radio selectors, not sure if it's good practice, but at least i remembered how it's done!
+
+### Day 5: July 22, Sat
+
+**Today's Progress**: Started doing JS calculator challenge.
+
+
+### Day 6: July 24, Mon
+
+**Today's Progress**: Decided to do it more windows-like, with additional functions like repeat last op when press equal etc.
+
+
+### Day 7: July 26, Wed
+
+**Today's Progress**: Doing JS part, i'm adding different classes to output to memorise what button was clicked last
+ 
+
+### Day 8: July 27, Thu
+
+**Today's Progress**: Wrote common functions "Math" and "Type" for math operators and numbers, now certain number or operation just passes argument its argument
+
+
+### Day 9: July 30, Sun
+
+**Today's Progress**: Swithed a little to CSS part, decided to make little blobs(qty = num) around each number that will light when you click it.
+
+
+### Day 10: July 31, Mon
+
+**Today's Progress**: Also did some animation to math buttons, like scale for multiply, shrink for minus etc
+
+
+### Day 11: August 1, Tue
+
+**Today's Progress**: Added SVG icons to math buttons, it broke my layout(probably bc i don't know how to SVG). Will switch to Flexbox.
+
+
+### Day 12: August 2, Wed
+
+**Today's Progress**: Discovered some bugs with JS math part, like possibility to type several zeros or dots in a row. 
+
+### Day 13: August 3, Thu
+
+**Today's Progress**: Finishing my calculator: picking colors for layout, applying flex, doing some minor stuff.
+
+
+
+
+
+
+
+
+
