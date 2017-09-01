@@ -238,10 +238,61 @@ After learning it did similar stuff in my weather app.
 **Today's Progress**: Finishing my calculator: picking colors for layout, applying flex, doing some minor stuff.
 
 
+### Day 1: August 23, Wed
+
+**Today's Progress**: Doing my tic-tac-toe project.
 
 
+### Day 2: August 24, Thu
 
+**Today's Progress**: Reading about strategies of game, making simple moves in reaction to click event
 
+### Day 3: August 25, Fri
 
+**Today's Progress**: Trying to hardcode best behavior with if's and it seems that it won't do any good...
 
+### Day 4: August 26, Sat
+
+**Today's Progress**: Ok, i'm switching to minimax algorythm, like everyone. Was reading about how to implement it. 
+
+### Day 5: August 27, Sun
+
+**Today's Progress**: Copied minimax function from this article https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37. Currently, it finds solution on near end game board. 
+
+### Day 6: August 28, Mon
+
+**Today's Progress**: Finished tic-tac-toe, somehow this minimax prefers moves that guarantee win but not winning immediately, also i hardcoded some random behavior on turn 1;
+
+### Day 7: August 29, Tue
+
+**Today's Progress**: Started doin' Simon Game. Already have some ideas to take from 1st project from javascript30 - drum kit
+
+### Day 8: August 30, Wed
+
+**Today's Progress**: copied this function with clojure from stackoverflow 
+function runIteration(fn, numTimes, delay) {
+			var cnt = 0;
+			function next() {
+				fn(cnt);
+				cnt++;
+				if (cnt < numTimes) {
+					setTimeout(next, delay);
+				} else { 
+					console.log('end sequence!');
+					activateCubes(true); //unblock
+				}
+			}
+			// start first iteration
+			setTimeout(next, 1000);
+		}		
+		
+	and so i have consequent clicks within an array;
+	
+### Day 9: August 31, Thu
+
+**Today's Progress**: Added audio and that's it for Simon and ... for Front-end certificate tasks!! Gonna claim my certificate now!
+
+### Day 10: Sep 1, Fri
+
+**Today's Progress**: I have a certificate! Deciding what to do next, meanwhile started CS 50 edX course for admission to Rolling Scopes School!
 
