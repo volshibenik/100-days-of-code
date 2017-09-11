@@ -296,3 +296,8 @@ function runIteration(fn, numTimes, delay) {
 
 **Today's Progress**: I have a certificate! Deciding what to do next, meanwhile started CS 50 edX course for admission to Rolling Scopes School!
 
+### Day 11: Sep 2, Sat
+
+**Today's Progress**: Doing Array Cardio, 4th exercise in Javascript30. Learning more about array methods, also about arrow function
+
+**IMPORTANT STUFF** "console.table" is great! Much better than console.log, at least for arrays
